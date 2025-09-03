@@ -1,2 +1,1 @@
-Projeto simples,onde desenvolvi um programa que verifica as portas de um IP especificona na rede e retorna se ela esta aberta ou fechado dado um range especifico usando a biblioteca "Socket" do python
-
+Desenvolvi um projeto simples em Python que faz a varredura das portas de um IP específico na rede, mostrando quais estão abertas ou fechadas, a partir de um intervalo definido. Para isso, utilizei a biblioteca socket.
